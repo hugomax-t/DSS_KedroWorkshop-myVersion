@@ -1,10 +1,10 @@
+# ⚠️⚠️⚠️ THIS BRANCH CONTAINS THE SOLUTION. TRY TO COMPLETE THE WORKSHOP ON YOUR OWN BEFORE LOOKING AT THE SOLUTION! ⚠️⚠️⚠️
+
 # Data Science Summit 2024 - Kedro Workshop
 
 By : Pierre Adeikalam (AXA Direct France / Direct Assurance)
 
 Supported by : Juan Pablo Usuga, Benjamin Wallyn
-
-# ⚠️⚠️⚠️ THIS BRANCH CONTAINS THE SOLUTION. TRY TO COMPLETE THE WORKSHOP ON YOUR OWN BEFORE LOOKING AT THE SOLUTION! ⚠️⚠️⚠️
 
 ## What is Kedro?
 
