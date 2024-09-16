@@ -1,0 +1,1 @@
+{"train_df": {"rows": 8693, "columns": 14, "file_size": 814115}, "processed_cabin": {"rows": 8693, "columns": 16}, "filled_missing_values": {"rows": 8693, "columns": 16}, "clean_df": {"rows": 8693, "columns": 13, "file_size": 592902}, "X_train": {"rows": 6280, "columns": 12}, "X_val": {"rows": 1109, "columns": 12}, "test_df": {"rows": 1304, "columns": 13, "file_size": 88995}}

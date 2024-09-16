@@ -1,0 +1,8 @@
+test_size: 0.15
+
+val_size: 0.15
+
+random_state: 42
+
+cat_columns: ["HomePlanet", "CryoSleep", "Destination", "VIP", "Deck", "Side"]
+num_columns: ["Age", "RoomService", "FoodCourt", "ShoppingMall", "Spa", "VRDeck"]
